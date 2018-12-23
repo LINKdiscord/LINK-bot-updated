@@ -1,0 +1,1 @@
+morker: node bot.js
